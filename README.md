@@ -1,0 +1,2 @@
+# cursogit
+BUENAS PRACTICAS
